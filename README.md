@@ -1,2 +1,4 @@
-# fixmyroad
-AI-powered two-sided pothole reporting platform for citizens and municipal officers
+node_modules/
+dist/
+.vite/
+.DS_Store
